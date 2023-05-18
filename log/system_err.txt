@@ -1,0 +1,6 @@
+Mar 23, 2023 4:11:45 PM controller.tasks.WalkingTask run
+INFO: java.lang.InterruptedException
+Mar 23, 2023 4:11:45 PM controller.scene_controllers.main_scene_controller.Spawns spawnDiamonds
+INFO: java.lang.InterruptedException
+Mar 23, 2023 4:11:45 PM controller.scene_controllers.main_scene_controller.MainSceneController waitToUpdateScene
+INFO: java.lang.InterruptedException

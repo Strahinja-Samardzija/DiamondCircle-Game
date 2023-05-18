@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.TextFlow?>
+
+<BorderPane fx:id="borderPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="640.0" minWidth="685.0" prefHeight="640.0" prefWidth="685.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.scene_controllers.main_scene_controller.MainSceneController">
+   <top>
+      <VBox fx:id="headerVBox" prefHeight="100.0" prefWidth="100.0" spacing="8.0" BorderPane.alignment="CENTER">
+         <children>
+            <HBox fx:id="titleHBox" prefHeight="100.0" prefWidth="200.0" spacing="100.0">
+               <children>
+                  <Label fx:id="gamesCountLabel" maxWidth="130.0" minHeight="42.0" minWidth="130.0" prefHeight="42.0" prefWidth="130.0" text="Trenutni broj odigranih &#10;igara:" textAlignment="CENTER" wrapText="true">
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="titleLabel" text="DiamondCircle" textAlignment="CENTER">
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                     <font>
+                        <Font name="System Bold" size="22.0" />
+                     </font>
+                  </Label>
+                  <Button fx:id="playPauseButton" mnemonicParsing="false" onAction="#playPause" text="Pokreni/Zaustavi" wrapText="true">
+                     <HBox.margin>
+                        <Insets right="15.0" />
+                     </HBox.margin>
+                  </Button>
+               </children>
+               <padding>
+                  <Insets bottom="18.0" left="23.0" top="16.0" />
+               </padding>
+            </HBox>
+            <HBox fx:id="playerLabelsHBox" prefHeight="40.0" prefWidth="200.0" spacing="80.0">
+               <VBox.margin>
+                  <Insets left="15.0" right="15.0" />
+               </VBox.margin>
+               <padding>
+                  <Insets bottom="7.0" left="60.0" top="6.0" />
+               </padding>
+            </HBox>
+         </children>
+         <padding>
+            <Insets bottom="8.0" />
+         </padding>
+      </VBox>
+   </top>
+   <center>
+      <Pane fx:id="gridCarrier" maxHeight="383.0" maxWidth="300" prefHeight="383.0" prefWidth="285.0" BorderPane.alignment="CENTER_LEFT">
+         <BorderPane.margin>
+            <Insets bottom="15.0" left="15.0" top="15.0" />
+         </BorderPane.margin>
+         <children>
+            <GridPane fx:id="matrixGrid" alignment="CENTER" gridLinesVisible="true" layoutX="0.5" layoutY="0.5" maxHeight="300.0" maxWidth="300.0"> 
+            </GridPane>
+         </children>
+      </Pane>
+   </center>
+   <right>
+      <VBox fx:id="rightVBox" minHeight="470.0" prefHeight="470.0" prefWidth="170.0" spacing="30.0" BorderPane.alignment="TOP_RIGHT">
+         <BorderPane.margin>
+            <Insets right="10.0" top="10.0" />
+         </BorderPane.margin>
+         <children>
+            <VBox fx:id="cardVBox" prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Label fx:id="cardLabel" alignment="CENTER" prefHeight="17.0" prefWidth="191.0" text="Trenutna karta:">
+                     <VBox.margin>
+                        <Insets bottom="8.0" top="8.0" />
+                     </VBox.margin>
+                  </Label>
+                  <ImageView fx:id="cardImageView" fitHeight="255.0" fitWidth="170.0" nodeOrientation="RIGHT_TO_LEFT" pickOnBounds="true" preserveRatio="true">
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                     <viewport>
+                        <Rectangle2D height="255.0" width="170.0" />
+                     </viewport>
+                  </ImageView>
+               </children>
+            </VBox>
+            <Label fx:id="timeElapsedLabel" alignment="CENTER" prefHeight="17.0" prefWidth="200.0">
+               <VBox.margin>
+                  <Insets top="10.0" />
+               </VBox.margin>
+            </Label>
+            <Pane fx:id="resultsButtonBackgroundPane">
+               <VBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </VBox.margin>
+               <children>
+                  <Button fx:id="resultsButton" layoutX="20.0" layoutY="-7.0" mnemonicParsing="false" onAction="#showResults" text="Prikaz liste fajlova&#10;sa rezultatima" wrapText="true" />
+               </children>
+               <padding>
+                  <Insets bottom="60.0" />
+               </padding>
+            </Pane>
+         </children>
+         <padding>
+            <Insets bottom="35.0" />
+         </padding>
+      </VBox>
+   </right>
+   <bottom>
+      <TextFlow fx:id="cardDescriptionTextFlow" maxHeight="225.0" maxWidth="240.0" minHeight="100.0" minWidth="240.0" prefWidth="240.0" textAlignment="CENTER" BorderPane.alignment="CENTER">
+         <BorderPane.margin>
+            <Insets bottom="10.0" right="52.0" top="20.0" />
+         </BorderPane.margin>
+         <children>
+            <Label fx:id="cardDescriptionHeaderLabel" alignment="CENTER" prefHeight="17.0" prefWidth="200.0" text="Opis značenja karte:" textAlignment="CENTER">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+               <padding>
+                  <Insets bottom="6.0" />
+               </padding>
+            </Label>
+            <Label fx:id="cardDescriptionContentLabel" alignment="CENTER" maxWidth="200.0" prefWidth="200.0" text="" textAlignment="CENTER" wrapText="true">
+               <padding>
+                  <Insets bottom="15.0" />
+               </padding>
+            </Label>
+         </children>
+         <padding>
+            <Insets bottom="7.0" />
+         </padding>
+      </TextFlow>
+   </bottom>
+   <left>
+      <ListView fx:id="figuresListView" maxHeight="386.0" prefHeight="309.0" prefWidth="130.0" BorderPane.alignment="CENTER">
+         <BorderPane.margin>
+            <Insets left="10.0" top="15.0" />
+         </BorderPane.margin>
+      </ListView>
+   </left>
+</BorderPane>

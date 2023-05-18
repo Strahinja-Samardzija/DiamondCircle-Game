@@ -1,0 +1,15 @@
+Player 1 - aw
+	Figura 2(BASIC, RED) - pređeni put (4-5-14-23-32-40-47-54-61-60-51-42-33-25-18-11-12-13-22-31-39-46-53-52-43-34-26-19-20-21-30-38-45-44-35-27-28-29-37-36) - stigla do cilja (da) - vrijeme kretanja (165s)
+	Figura 3(BASIC, RED) - pređeni put (4-5-14-23-32-40-47-54-61-60-51-42-33-25-18-11-12-13-22-31-39-46-53-52-43-34-26-19-20-21-30-38-45-44-35-27-28-29-37-36) - stigla do cilja (da) - vrijeme kretanja (103s)
+	Figura 4(LEVITATING, RED) - pređeni put (4-5-14-23-32-40-47-54-61-60-51-42-33-25-18-11-12-13-22-31-39-46-53-52-43-34-26-19-20-21-30-38-45-44-35-27-28-29-37-36) - stigla do cilja (da) - vrijeme kretanja (47s)
+	Figura 1(FAST, RED) - pređeni put (4-5-14-23-32-40-47-54-61-60-51-42-33-25-18-11-12-13-22-31-39-46-53-52-43-34-26-19-20-21-30-38-45-44-35-27-28-29-37-36) - stigla do cilja (da) - vrijeme kretanja (43s)
+Player 2 - qw
+	Figura 6(BASIC, PURPLE) - pređeni put (4) - stigla do cilja (ne) - vrijeme kretanja (1s)
+	Figura 7(FAST, PURPLE) - pređeni put (4-5-14-23-32-40-47-54-61-60-51-42-33-25-18-11-12-13-22-31-39-46-53-52-43-34-26-19-20-21-30-38-45-44-35-27-28-29-37-36) - stigla do cilja (da) - vrijeme kretanja (97s)
+	Figura 8(BASIC, PURPLE) - pređeni put (4) - stigla do cilja (ne) - vrijeme kretanja (0s)
+	Figura 5(BASIC, PURPLE) - pređeni put (4-5-14-23-32-40-47-54-61-60-51-42-33-25-18-11) - stigla do cilja (ne) - vrijeme kretanja (67s)
+Player 3 - ew
+	Figura 10(FAST, GREEN) - pređeni put (4-5-14-23-32-40-47-54-61-60-51-42-33-25-18-11-12-13-22-31-39-46-53-52-43-34-26-19-20-21-30-38-45-44-35-27-28-29-37-36) - stigla do cilja (da) - vrijeme kretanja (103s)
+	Figura 11(FAST, GREEN) - pređeni put (4-5-14-23) - stigla do cilja (ne) - vrijeme kretanja (4s)
+	Figura 12(FAST, GREEN) - pređeni put (4-5-14-23-32-40-47-54-61-60-51-42-33-25-18-11-12-13-22-31-39-46-53-52-43-34-26-19-20-21-30-38-45) - stigla do cilja (ne) - vrijeme kretanja (64s)
+	Figura 9(FAST, GREEN) - pređeni put (4-5-14-23-32-40-47-54-61-60-51-42-33-25-18-11-12-13-22-31-39-46-53-52-43-34-26-19-20-21-30-38-45-44-35-27-28-29-37-36) - stigla do cilja (da) - vrijeme kretanja (72s)

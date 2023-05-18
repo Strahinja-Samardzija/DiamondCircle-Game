@@ -1,0 +1,10 @@
+Player 1 - mara
+	Figura 2(FAST, RED) - pređeni put (4-12-20-28) - stigla do cilja (ne)
+	Figura 3(BASIC, RED) - pređeni put (4-12) - stigla do cilja (ne)
+	Figura 4(FAST, RED) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da)
+	Figura 1(BASIC, RED) - pređeni put (4-12-20-28-34-40-46) - stigla do cilja (ne)
+Player 2 - slavica
+	Figura 6(FAST, PURPLE) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27) - stigla do cilja (ne)
+	Figura 7(LEVITATING, PURPLE) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da)
+	Figura 8(LEVITATING, PURPLE) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da)
+	Figura 5(BASIC, PURPLE) - pređeni put (4-12-20-28-34-40-46-38-30-22-16) - stigla do cilja (ne)

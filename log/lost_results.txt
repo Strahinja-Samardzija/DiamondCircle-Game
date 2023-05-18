@@ -1,0 +1,10 @@
+Player 1 - Marko
+	Figura 2(FAST, RED) - pre?eni put (4-12-20-28) - stigla do cilja (ne)
+	Figura 3(LEVITATING, RED) - pre?eni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da)
+	Figura 4(BASIC, RED) - pre?eni put (4-12-20-28-34) - stigla do cilja (ne)
+	Figura 1(LEVITATING, RED) - pre?eni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da)
+Player 2 - Marija
+	Figura 6(BASIC, PURPLE) - pre?eni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da)
+	Figura 7(LEVITATING, PURPLE) - pre?eni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da)
+	Figura 8(LEVITATING, PURPLE) - pre?eni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da)
+	Figura 5(BASIC, PURPLE) - pre?eni put (4-12-20) - stigla do cilja (ne)

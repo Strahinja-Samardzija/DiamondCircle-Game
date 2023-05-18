@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<Pane fx:id="pane" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.scene_controllers.FiguresMatrixSceneController">
+   <children>
+      <GridPane fx:id="grid" gridLinesVisible="true" alignment="CENTER" prefWidth="200" prefHeight="200" maxWidth="200" maxHeight="200">
+      </GridPane>
+   </children>
+</Pane>

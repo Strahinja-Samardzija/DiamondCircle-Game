@@ -1,0 +1,82 @@
+.root {
+	-fx-background-color: "ECCBBC";
+}
+
+.label {
+	-fx-font-size: 12;
+	-fx-font-weight: 600;
+}
+
+#cardDescriptionHeaderLabel, #cardDescriptionContentLabel,
+#cardLabel, #timeElapsedLabel {
+	-fx-text-fill: "white";
+}
+
+#cardDescriptionHeaderLabel{
+	-fx-font-weight: bold;
+}
+
+#gamesCountLabel {
+	-fx-text-fill: "41003A";
+	-fx-font-weight: 600;
+}
+
+#titleLabel{
+	-fx-font-size: 22;
+	-fx-font-weight: bold;
+}
+
+.button {
+	-fx-background-color: "red";
+}
+
+GridPane {
+	-fx-background-color: "DFF3F2";
+}
+
+HBox{
+	-fx-border-width: 2;
+	-fx-border-color: "C1440E";
+	-fx-background-color: "FFC57B";
+}
+
+#playerLabelsHBox {
+	-fx-background-color: "ECCBBC";
+}
+
+VBox {
+	-fx-border-width: 2;
+	-fx-border-color: "C1440E";
+	-fx-background-color: "00726C";
+}
+
+#rightVBox {
+	-fx-padding: inherit, inherit, 35, inherit;
+}
+
+#playPauseButton {
+	-fx-background-color: "800E74";
+	-fx-text-fill: "EFF30C";
+	-fx-font-size: 14;
+	-fx-font-weight: 500;
+	-fx-wrap-text: true;
+}
+
+#resultsButton{
+	-fx-background-color: "AE0D28";
+	-fx-padding: 13;
+	-fx-text-fill: "white";
+}
+
+#titleHBox {
+	-fx-text-fill: "5C2A78";
+}
+
+#figuresScroll, #cardVBox, #cardDescriptionTextFlow {
+	-fx-background-color: "998F8F";
+}
+
+TextFlow {
+	-fx-border-width: 2;
+	-fx-border-color: "C1440E";
+}

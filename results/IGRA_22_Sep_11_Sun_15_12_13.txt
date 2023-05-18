@@ -1,0 +1,10 @@
+Player 1 - milan
+	Figura 2(LEVITATING, RED) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da) - vrijeme kretanja (61s)
+	Figura 3(BASIC, RED) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da) - vrijeme kretanja (56s)
+	Figura 4(LEVITATING, RED) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da) - vrijeme kretanja (48s)
+	Figura 1(BASIC, RED) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da) - vrijeme kretanja (28s)
+Player 2 - marko
+	Figura 6(BASIC, PURPLE) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da) - vrijeme kretanja (40s)
+	Figura 7(BASIC, PURPLE) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da) - vrijeme kretanja (42s)
+	Figura 8(FAST, PURPLE) - pređeni put (4-12-20-28-34-40) - stigla do cilja (ne) - vrijeme kretanja (6s)
+	Figura 5(LEVITATING, PURPLE) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da) - vrijeme kretanja (48s)

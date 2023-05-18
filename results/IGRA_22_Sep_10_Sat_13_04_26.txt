@@ -1,0 +1,10 @@
+Player 1 - dara
+	Figura 2(BASIC, RED) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39) - stigla do cilja (ne)
+	Figura 3(FAST, RED) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32) - stigla do cilja (ne)
+	Figura 4(LEVITATING, RED) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da)
+	Figura 1(LEVITATING, RED) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da)
+Player 2 - sara
+	Figura 6(LEVITATING, PURPLE) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da)
+	Figura 7(BASIC, PURPLE) - pređeni put (4-12-20-28-34-40-46-38-30) - stigla do cilja (ne)
+	Figura 8(BASIC, PURPLE) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da)
+	Figura 5(LEVITATING, PURPLE) - pređeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja (da)
